@@ -1,0 +1,15 @@
+height: 720
+width: 1280
+sensor_size: 
+  - ${dataset.height}
+  - ${dataset.width}
+
+loader:
+  _target_: dataloaders.ueof_loader.UEOFDataLoader
+  root_dir: ${root_dir}
+  sequence_name: ${sequence_name}
+  delta_idx: ${dt}
+  event_sensor_size: ${dataset.sensor_size}
+  des_n_events: ${des_n_events}
+  load_more_images: true
+  prefer_latest_events: ${prefer_latest_events_in_sample}
