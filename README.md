@@ -64,9 +64,9 @@ dataset.
 ### Dataset
 
 The dataset can be downloaded from
-[MavMatrix](https://mavmatrix.uta.edu/rvl_ebv_datasets/1/). The dataset
-consists of 12 minutes and 51 seconds of data across 13,714 RGB frames. This
-results in a total of 4.94 billion events across all scenes.
+[MavMatrix](https://mavmatrix.uta.edu/rvl_ebv_datasets/1/). It consists of 12
+minutes and 51 seconds of data across 13,714 RGB frames. This results in a
+total of 4.94 billion events across all scenes.
 
 ### UEOF Source Code License
 
