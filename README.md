@@ -2,7 +2,7 @@
 
 [![Project Website](https://img.shields.io/badge/Project%20-%20Website%20-%20blue?color=%234054B2&link=https%3A%2F%2Frobotic-vision-lab.github.io%2Fueof%2F)](https://robotic-vision-lab.github.io/ueof/)
 [![Paper](https://img.shields.io/badge/Paper%20-%20arXiv%20-%20crimson?link=https%3A%2F%2Farxiv.org%2Fpdf%2F2601.10054)](https://arxiv.org/pdf/2601.10054)
-[![Dataset Download](https://img.shields.io/badge/Dataset%20-%20Download%20-%20green)](https://doi.org/10.32855/dataset.2026.02.045)
+[![Dataset Download](https://img.shields.io/badge/Dataset%20-%20Download%20-%20green)](https://mavmatrix.uta.edu/rvl_ebv_datasets/2)
 
 ## Overview
 
@@ -64,7 +64,7 @@ If you find this project useful, please cite both the paper and the dataset.
 
 ## Dataset Layout
 
-The dataset is available from [MavMatrix](https://doi.org/10.32855/dataset.2026.02.045). This repository contains:
+The dataset is available from [MavMatrix](https://mavmatrix.uta.edu/rvl_ebv_datasets/2). This repository contains:
 
 - Dataset format documentation
 - Scripts used to generate dataset artifacts
